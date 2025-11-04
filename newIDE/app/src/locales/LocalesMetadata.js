@@ -311,7 +311,7 @@ module.exports = [
     "languageCode": "tr_TR",
     "languageName": "Turkish",
     "languageNativeName": "Türkçe",
-    "translationRatio": 0.9758730158730159
+    "translationRatio": 0.9765079365079365
   },
   {
     "languageCode": "uk_UA",
